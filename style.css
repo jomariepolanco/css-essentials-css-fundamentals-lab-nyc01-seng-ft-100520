@@ -17,4 +17,6 @@ a {
   padding-left: 10px;
   color: grey;
 }
-figcaption
+figcaption {
+  text-align: center;
+}
